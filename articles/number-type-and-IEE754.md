@@ -1,5 +1,5 @@
-Number型とIEEE754-20008
-=======================
+Number型とIEEE754-2008
+======================
 
 [ECMASCript2015 Language Specification](http://www.ecma-international.org/ecma-262/6.0/)の一人輪読会資料。
 前回までは翻訳メモみたいなのをペタッと貼っただけでしたが、今回からやり方をちょっと変えて、
